@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/ds64xs2lp/image/upload/v1770073784/the_numerology_api_fzlsli.gif" alt="Numerology Astro Bot Hero Image" />
+  <img src="assets/the_numerology_api.gif" alt="Numerology Astro Bot" />
 </p>
 
 <div align="center">
