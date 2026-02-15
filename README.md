@@ -9,9 +9,8 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/the_numerology_api.gif" alt="Numerology Astro Bot" />
-</p>
+![Numerology Astro Bot](assets/the_numerology_api.gif)
+
 
 <div align="center">
 
