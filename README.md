@@ -9,7 +9,11 @@
 
 </div>
 
-![Numerology Astro Bot](assets/the_numerology_api.gif)
+
+
+<p align="center">
+  <img src="assets/the_numerology_api.gif" alt="Numerology Astro Bot" width="700" />
+</p>
 
 
 <div align="center">
